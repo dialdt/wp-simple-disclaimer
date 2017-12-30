@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.disclaimer-text {
+	
+	font-family: 'Montserrat', sans-serif;
+	font-style: italic;
+	font-size: 0.8em; 
+
+}
+
+.disclaimer_admin_textarea {
+
+	width: 200px !important;
+
+}
